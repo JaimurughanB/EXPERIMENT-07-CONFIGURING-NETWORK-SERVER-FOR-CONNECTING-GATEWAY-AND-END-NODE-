@@ -1,7 +1,9 @@
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
-## Aim: To  configure  the Network server and end device for traferring data on the network
-## Components required: end node stm 32 development kit , dragino LPS8, network server 
+## Aim:
+To  configure  the Network server and end device for traferring data on the network
+## Components required:
+end node stm 32 development kit , dragino LPS8, network server 
 
 ## Theory :
 When working with sensitive applications or files, saving progress on your local device is a start, but what if you lose access to your device? Network servers address this problem by hosting the files and programs most pertinent to the network and enabling access for consistent, real-time use. 
@@ -47,9 +49,16 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
-
-
+## iot .saveetha.in
+![image](https://github.com/user-attachments/assets/eae71c74-bb95-469a-93e5-d97bdbf0de1f)
+## gateway dashboard
+![image](https://github.com/user-attachments/assets/bfe72eac-c813-44c2-a6e2-3a5f4e5c9e9c)
+## channel dashboard
+![image](https://github.com/user-attachments/assets/86243cbe-2630-4277-914f-e44a34bb7c0a)
+## end device dashboard
+![image](https://github.com/user-attachments/assets/0834cffa-b4a8-4282-bfa6-52d0f8ff94f4)
+## payload formate dashboard
+![image](https://github.com/user-attachments/assets/53ac1e6c-6af5-4d15-b1c7-a5fc819b5519)
 
 
 ## Results: 
